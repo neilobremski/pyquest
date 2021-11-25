@@ -14,7 +14,9 @@ Now do it without using `.reverse()` _or_ slice.
 
 Write a function to accept a list and return a shuffled version. The original list must be unaffected.
 
-Write a version of the same function that shuffles the source list in place.
+Now do it so that it shuffles the source list in place (e.g. modifies the source list).
+
+Now do it using only `random.randint()`.
 
 ## Capital!
 
